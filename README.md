@@ -5,17 +5,7 @@ Smart Door Lock System using Arduino UNO Board and Lock Mechanism work on Passwo
 
 [Demo Video](https://github.com/pishangujeniya/SmartDoorLock/raw/master/Report-Documentation/Smart_Door_Lock_System.mp4)
 
-README------SMART-DOOR-LOCK-SYSTEM---------------
-
-This project is developed  by 
-
-	PISHANGKUMAR UJENIYA	
-	(IT-99)	(13ITUBS007)
-	(pishangujeniya@outlook.com)
-
-	MOHIB SORATHIA	
-	(IT-91)	(13ITUOS058)	
-	(mohibsorathia@gmail.com)
+README------SMART-DOOR-LOCK-SYSTEM----------
 
 The Project " SMART DOOR LOCK SYSTEM " aims at 
 providing password protected door lock mechanism 
